@@ -38,10 +38,7 @@ print("[%d]" %(int(number[4])))
 
 # 1026
 time = input().split(':')
-if int(time[1])==00 :
-    print(0)
-else:
-    print(time[1])
+print(int(time[1]))
 
     
     
