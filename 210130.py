@@ -3,7 +3,7 @@ n = int(input())
 student = list(map(int, input().split()))
 
 for i in range(n-1, -1, -1) :
-    print(student[int(i)], end=' ')
+    print(student[i], end=' ')
 
 
 
