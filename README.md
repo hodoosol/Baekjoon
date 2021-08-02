@@ -19,7 +19,7 @@
 #### 혼자 풀기 다슬이는 자바스크립트 공부 중 ...
 #### Link : https://www.acmicpc.net/workbook/view/2418
 
-### 5. Samsung_SW_Competence : 삼성 SW 역량 테스트 기출문제
+### 5. SamsungSwCompetence : 삼성 SW 역량 테스트 기출문제
 #### 2021.08.02 ~
 #### 부스트캠프 AI Tech _ 16조 SPAM 팀과 스터디
 #### Link : https://www.acmicpc.net/workbook/view/1152
